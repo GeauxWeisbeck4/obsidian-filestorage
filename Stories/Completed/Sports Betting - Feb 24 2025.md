@@ -1,0 +1,165 @@
+# Sports Betting
+
+# Action Network
+
+- ## NBA
+	- ### NBA Picks
+		- LA Clippers at Detroit Pistons
+			- LA Clippers -2
+			- Under 226 (down to 222.5)
+			- James Harden Double-Double
+			- Harden O5.5 Rebs
+			- Thompson O1.5 Stls
+			- Thompson O5.5 Rebs
+			- Thompson O8.5 Rebs + Assts
+			- Bogdanovic O13.5 Pts
+		- Chicago at Philadelphia
+			- Josh Giddey O14.5 Reb + Assists
+			- Giddey O23.5 Pts + Rebs
+			- Oubre Jr O17.5 Pts
+			- Bulls +4
+			- Kelly Oubre Jr. O25.5 Pts + Rebs
+			- Lonzo Ball O18.5 Pts + Rebs + Assists
+			- Tre Jones U3.5 Assists
+			- Josh Giddey O7.5 Rebounds
+			- Giddey O7.5 Assists
+			- Grimes O5.5 Rebounds
+			- Ball O10.5 Pts
+			- Maxey O6.5 Assts
+			- Huerter O10.5 Pts + Assts
+			- Giddey O1.5 3pts
+			- Huerter O8.5 Pts
+			- White 03.5 reb
+		- Denver at Indiana
+			- Pacers +5
+			- Jokic O50.5 Pts + Rebs + Assists
+			- Jamal Murray 20+ Points
+			- **Siakam 20+ Points** - I dunno he's fucked me every time
+			- Nesmith O9.5 Pts + Assts
+			- Turner O22.5 Pts + Rebs + Assts
+			- Turner O5.5 Rebs
+			- Haliburton O19.5 Pts
+			- Nuggets ML
+			- Over 246.5
+		- Charlotte at Sacramento
+			- Sabonis O39.5 Reb + Pts + Assists
+			- Bridges O6.5 Rebounds
+			- Sabonis O0.5 3pts made
+			- Nurkic O10.5 Assts + Rebs
+			- Nurkic O6.5 Pts
+			- Nurkic O7.5 rebs
+			- Ball O36.5 Pts + Rebs + Assts
+			- Kings ML
+			- Sabonis O14.5 pts
+		- Minnesota at OKC 
+			- Minnesota +12
+			- Timberwolves Team Total O106.5
+			- Edwards O6.5 Rebounds
+			- Alexander-Walker O14.5 Pts + Rebs
+			- Edwards O31.5 Pts + Assts
+			- Gilgeous-Alexander O32.5 Pts
+			- Naz Reid Double-Double
+			- Hartenstein U14.5 Rebs + Assts
+			- Reid 8+ rebs
+			- McDaniels O14.5 pts
+			- Edwards O3.5 3pts
+		- Miami at Atlanta
+			- Trae Young O10.5 Assists
+			- Heat Team Total O114.5
+			- Davion Mitchell O12.5 Points + Assists
+			- O230.5
+			- Risacher O12.5 Pts + Assts
+			- Risacher O15.5 Pts + Rebs
+			- Risacher O16.5 Pts + Rebs + Assts
+			- Gueye 08.5 Pts + Reb + Assts
+			- Okongowu O12.5 Pts + Rebs
+			- A Wiggens O24.5 Pts + Rebs
+			- K Ware O22.5 Pts + Reb + Assts
+			- Tre Young U28.5 Pts
+			- Herro O22.5 pts
+			- Adebayo O19.5 pts
+		- Nets at Wizards
+			- Nets -3
+			- Nets ML
+			- Watford O12.5 Pts
+			- Poole O4.5 Assts
+			- U217.5 
+			- Poole U20.5 pts
+			- Williams O6.5 reb
+		- Portland at Utah
+			- Under 232.5
+			- Blazers Team Total O118.5
+			- Clingan O9.5 rebs
+			- Clingan O17.5 Pts + Rebs
+			- Clingan Double-Double
+			- Camara O14.5 Pts + Assts
+			- Avdija O26.5 Pts + Rebs + Assts
+			- Advidja O17.5 Pts
+			- Filipowski O9.5 Rebs
+	- ### NCAAB
+		- UNC vs. Florida State
+			- O155.5
+			- UNC -2.5
+			- UNC U79.5 Team Total
+			- Trimble U pts
+			- Trimble U Reb
+		- Lamar vs. Incarnate Word
+			- Incarnate Word +1.5
+		- Houston at Texas Tech
+			- Houston -1
+			- Houston ML
+			- Robers 7+ rebs
+			- Houston Team Total O65.5
+		- Michigan at Nebraska
+			- Michigan ML
+			- Burnett O2.5 3pts
+			- Williams 15+ pts
+			- Michigan +1.5
+		- UNCW at Mary
+			- O
+			- UNCW ML
+		- Northeastern at Monmouth
+			- Over
+			- NE Spread
+		- Lipscomb at Austin Peay
+			- Under
+			- Peay Spread
+		- East Kentucky at Jacksonville
+			- Under
+			- EKU Spread
+		- Bethune Cookman at Alabama St
+			- Al St ML
+		- Bellarmine at Stetson
+			- Bellarmine ML
+		- UT Grand Valley at McNeese
+			- UTGRDV Spread
+		- N Florida at Florida Gulf Coast
+			- Under
+		- MVSU at Prairie View
+			- Over
+		- Queens at Wolves
+			- Queens Spread
+		- Texas A&M at Nichols
+			- Nichols Spread
+		- NCCU at Delaware St
+			- Delaware St ML
+		- Kansas at Colorado
+			- Kansas -7
+			- O141
+	- ## NHL
+		- San Jose at Winnipeg
+			- San Jose +1.5
+			- Smith U1.5 SOG
+			- Ehlers U2.5 SOG
+			- Connor O3.5 SOG
+			- Connor Anytime goal
+			- Hellebyuk O22.5 saves
+		- Vegas at LA
+			- U5.5
+			- Pietrangelo U1.5 SOG
+			- Kemper O24.5 Saves
+			- Hanifin O0.5 Pts
+			- Doorfeyev O3.5 SOG
+			- Kings ML
+			- Fiala O2.5 shots
+			- Stone U0.5 pts

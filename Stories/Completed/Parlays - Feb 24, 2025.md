@@ -1,0 +1,283 @@
+# Parlays Feb 24, 2025
+- [[Sports Betting - Feb 24 2025]]
+
+# Parlay One +495262 ($1 - $4,953.62)
+- ## Nuggets @ Pacers +992
+	- [ ] Pacers +4.5
+	- [ ] J Murray O21.5 Pts (14pts)
+	- [ ] P Siakam O19.5 Pts
+	- [ ] N Jokic 050.5 PRA (6pts +3reb + 11assts (20) 3rd)
+- ## Bulls @ Sixers +3254
+	- [x] J Giddey O15.5 Pts
+	- [ ] K Oubre Jr. O17.5 Pts (14pts + 6reb + 1asst)
+	- [x] J Giddey O1.5 Made 3s
+	- [x] J Giddey O24.5 Pts + Reb
+	- [ ] K Oubre Jr. O24.5 Pts + Reb (20)
+	- [x] K Huerter O9.5 Pts
+	- [ ] T Maxey O6.5 Assists
+	- [ ] Q Grimes O5.5 Rebs
+- ## Nets @ Wizards -110
+	- [ ] Brooklyn Nets -3
+- ## Clippers @ Pistons -108
+	- [ ] Clippers +1.5 (55 - 52)
+- ## Timberwolves @ Thunder -108
+	- [ ] Timberwolves +12
+- ## Trail Blazers @ Jazz -108
+	- [ ] Under 231.5
+
+# Parlay 2 +6470 ($0.50 - $1,219.34)
+- ## Vegas GK @ LA Kings
+	- [ ] LA Kings +1.5
+	- [ ] Under 5.5
+	- [ ] A Pietrangelo U1.5 SOG
+	- [ ] P Dorofeyev O2.5 SOG
+	- [ ] K Fiala O2.5 SOG
+	- [ ] M Stone U1.5 SOG
+	- [ ] N Hanifin O1.5 SOG
+- ## San Jose Sharks @ Winnipeg Jets
+	- San Jose +1.5
+	- K Connor Anytime Goal Scorer
+	- K Connor O3.5 SOG
+	- N Ehlers U2.5 SOG
+	- W Smith U1.5 SOG
+
+# Parlay 3 +848020 ($0.84 - $7,124.21)
+- ## Nets @ Wizards
+	- [ ] Nets ML (72-71 wnd)
+	- [ ] J Poole U20.5 Pts (14pts 2nd)
+	- [ ] T Watford O12.5 Pts (6pts 5reb 1asst)
+	- [ ] Z Williams O5.5 Rebs (2)
+	- [ ] J Poole O4.5 Assists (2assts)
+	- [ ] U217
+- ## Trail Blazers @ Jazz
+	- [ ] D Clingan O9.5 Rebounds
+	- [ ] K Filipowski O8.5 Reb
+	- [ ] D Clingan O18.5 Pts + Reb
+	- [ ] D Advdija O27.5 Pt + Reb + Ass
+	- [ ] D Avdija O16.5 pts
+	- [ ] T Camara O12.5 Pts
+	- [ ] D Clingan O8.5 pts
+- ## Clippers @ Pistons
+	- [ ] Clippers +2 (17 - 23 1Q)
+	- [ ] Bogdanovic O13.5pts (4pts)
+	- [x] J Harden O5.5 Reb (4 - 1Q)
+	- [ ] A Thompson O5.5 Reb (1reb + 1 assist) 3rd
+	- [ ] A Thompson O8.5 Reb + Ass (1 asst - 1q)
+
+# Parlay 4 +32347582 ($0.50 - $161,738.41)
+- ## Timberwolves @ Thunder
+	- [ ] S Gilgeous-Alexander O32.5 pts (13)
+	- [ ] T Wolves +12
+	- [ ] J McDaniels O13.5 pts
+	- [ ] A Edwards O3.5 3 pts made
+	- [ ] A Edwards O32.5 Pts + Rebs
+	- [ ] A Edwards O6.5 Rebs
+	- [ ] Naz Reid O8.5 Rebs
+	- [ ] N Alexander-Walker O14.5 Pts + Rebs
+	- [ ] I Hartenstein U14.5 Rebs + Assts (3 + 1)
+- ## Hornets @ Kings
+	- [ ] Kings ML
+	- [ ] D Sabonis O40.5 PRA
+	- [ ] D Sabonis O19.5 pts
+	- [ ] J Nurkic O7.5 pts
+	- [ ] J Nurkic O7.5 rebs
+	- [ ] M Bridges O6.5 rebs
+	- [ ] L Ball O36.5 PRA
+	- [ ] J Nurkic O10.5 pts + reb
+- ## Heat @ Hawks
+	- [ ] O231 (92 half)
+	- [ ] T Herro O25.5 pts (7)
+	- [ ] T Young U26.5 pts (4pts)
+	- [ ] B Adebayo O18.5 pts (6)
+	- [ ] T Young O10.5 assists (5assts)
+	- [ ] A Wiggins O24.5pts (13)
+	- [ ] Z Risacher O16.5 pts + reb (2 + 1)
+	- [ ] D Mitchell O13.5 pts + assists (4pts + 1)
+
+# Parlay #5 +251599 ($0.50 - $1,258.50)
+- ## Heat @ Hawks
+	- [ ] A Wiggins O24.5pts
+	- [ ] D Mitchell O13.5 pts + assists
+	- [ ] B Adebayo O18.5 pts
+	- [ ] T Young U26.5 pts
+	- [ ] T Herro O3.5 3pts made
+	- [ ] K Ware O11.5pts (4)
+	- [ ] O Okongwu O13.5pts (9)
+	- [ ] O231
+- ## Bulls @ Sixers
+	- [ ] K Oubre Jr. O16.5 pts (14)
+	- [ ] L Ball O10.5pts (6pts + 2reb + 1asst 1Q)
+	- [x] K Huerter O10.5pts (5pts 1Q)
+	- [ ] L Ball O18.5 pts + ass
+	- [x] J Giddey O24.5 pts + reb (2pts + 5reb + 1asst)
+
+# Parlay #6 +815386 ($0.50 - $4,077.43)
+- ## Nuggets @ Pacers
+	- [ ] Jokic O51.5 PRA (6pts +3reb + 11assts (20) 3rd)
+	- [ ] M Turner O6.5 Reb (14pts + 1reb)
+	- [ ] Murray O21.5 pts
+	- [ ] Haliburton O18.5 pts (9pts)
+- ## Bulls @ Sixers
+	- [ ] K Oubre Jr. O18.5 pts
+	- [ ] L Ball O10.5pts (6 + 2reb + 1asst)
+	- [x] K Huerter O10.5pts
+	- [ ] L Ball O18.5 pts + ass (9)
+	- [x] J Giddey O1.5 3pts 
+	- [x] J Giddey O31.5 pra (20 + 10 + 5)
+	- [ ] Oubre Jr O24.5 pts+reb (4pts + 2reb + 1asst)
+	- [ ] Grimes O5.5 reb
+	- [ ] C White O3.5 reb (1asst)
+- ## Timberwolves @ Thunder
+	- [ ] Twolves +12
+	- [ ] Edwards O3.5 3pts
+	- [ ] Edwards O32.5 pts + reb
+	- [ ] N Alexander-walker O14.5 pts + reb
+	- [ ] Edwards O6.5 rebs
+
+# Parlay 7 +2711898 ($0.50 - $13,559.99)
+- ## Michigan @ Nebraska
+	- [ ] Michigan -1.5
+	- [ ] Burnett O10.5 pts
+	- [ ] Goldin O15.5 pts
+	- [ ] Gary O14.5 pts
+	- [ ] Williams O21.5pts
+- ## Houston @ T Tech
+	- [ ] Houston ML
+	- [ ] Houston Team Total O66.5
+- ## Kansas @ Colorado
+	- [ ] Kansas -6.5
+	- [ ] O143.5
+- ## Other Bets
+	- [ ] Austin Peay +7.5
+	- [ ] UT Rio Grande Valley +14.5
+	- [ ] MSVU O139.5
+	- [ ] UNC ML
+	- [ ] Eastern Kentucky +2.5
+	- [ ] N Florida U159.5
+	- [ ] Nicholls ML
+	- [ ] Incarnate Word +1.5
+
+# Parlay 8 +154019125 ($0.50 - $770,096.13)
+- ## Nets @ Wizards
+	- [ ] Williams Double Double
+	- [ ] Watford O12.5 pts (6)
+	- [x] Holmes O8.5 pts
+	- [ ] Poole O4.5 assists
+- ## Clippers @ Pistons
+	- [ ] Duren O10.5pts (5pts)
+	- [ ] Thompson O8.5 reb + asst
+	- [x] Harden O5.5 reb
+- ## Bulls @ Sixers
+	- [x] Giddey O15.5 rebs + assts
+	- [ ] Grimes O5.5 rebs
+	- [ ] Oubre Jr O 23.5pts + reb
+	- [ ] L Ball O10.5 pts
+	- [x] Huerter O10.5pts
+- ## Nuggets @ Pacers
+	- [ ] Jokic O51.5 PRA (6pts +3reb + 11assts (20) 3rd)
+	- [x] A Gordon O18.5 pts + reb (18pts + 3reb + 2 assts 1Q)
+	- [ ] J Murray O21.5 pts (8pts 1Q)
+- ## Heat @ Hawks
+	- [ ] T Young U26.5 Pts
+	- [ ] Risacher O16.5 pts + reb
+- ## Twolves @ Thunder
+	- [ ] Edwards O3.5 3pts made
+	- [ ] Edwards O6.5 rebs
+- ## Hornets @ Kings
+	- [ ] Sobanis O25.5 pts + assts
+	- [ ] Nurkic O10.5 rebs + assts
+
+# Parlay 9 +136396 ($0.50 - $682.48)
+- [ ] UNC ML
+- [ ] Nuggets O246
+- [ ] Clippers +2.5
+- [ ] Nets ML
+- [ ] Heat +1.5
+- [ ] Sharks +1.5
+- [ ] Michigan -1.5
+- [ ] Twolves +12
+- [ ] Houston -2.5
+- [ ] Blazers U231.5
+- [ ] Kings ML
+- [ ] Vega U5.5
+
+# Parlay 10 +6478566 ($0.50 - $32,393.33)
+- ## Twolves @ Thunder
+	- [ ] TWolves +12 (31 - 37)
+	- [ ] Alexander-Walker O16.5 pra ( 3 + 1 + 1)
+	- [ ] Alexander-walker O13.5 pr (3 + 1)
+	- [ ] Reid O27.5 pr (2 + 3)
+	- [ ] Edwards O6.5 reb (3)
+	- [ ] Mcdaniels O13.5pts (9)
+- ## Nuggets @ Pacers
+	- [ ] Jokic O51.5 pra (6pts +3reb + 11assts (20) 3rd)
+	- [ ] Murray O21.5 pts
+	- [x] Gordon O13.5 pts
+	- [ ] Haliburton O18.5pts (9pts)
+	- [ ] Nembhard O13.5pts (4pts)
+	- [ ] Porter Jr. O24.5 pr (11pts + 5reb 1Q)
+- ## Bulls @ Sixers
+	- [ ] Maxey O6.5 ass (8pts + 2asst)
+	- [ ] Grimes O3.5 ass (3pts + 2reb)
+	- [ ] Oubre Jr. O16.5 pts
+- ## Hornets @ Kings
+	- [ ] Bridges O22.5 pts
+	- [ ] Lavine O21.5pts
+	- [ ] Sabonis O39.5pra
+- ## Clippers @ Pistons
+	- [ ] Duren O10.5 pts (4pts - qQ)
+	- [ ] Dunn O14.5pts (11pts - 3Q)
+
+# Parlay 11 +6824260 ($0.50 - $34,121.80)
+- ## Bulls @ Sixers
+	- [ ] Grimes O14.5 pts (9pts)
+	- [x] George O17.5 pts (7pts 1Q)
+	- [ ] Maxey U29.5 pts (13pts)
+	- [ ] Grimes O5.5 reb (3reb) 
+- ## Nets @ Wizards
+	- [x] Williams O10.5pts (3pts)
+	- [ ] Holmes O8.5pts (2pts + 2rebs + 2assts)
+	- [ ] K George U20.5pts (2pts)
+- ## Clippers @ Pistons
+	- [x] Dunn O6.5pts (11pts)
+	- [ ] Bogdanovic U15.5 pts (4pts)
+	- [ ] Jones Jr. O9.5 pts (4pts)
+- ## Nuggets
+	- [x] Gordon O13.5pts
+	- [ ] Siakam O20.5pts (10pts - 1Q)
+	- [ ] Haliburton O18.5pts (9pts - 1Q)
+- ## Heat @ Hawks
+	- [ ] Young U26.5pts
+	- [ ] Mitchell O7.5pts
+	- [ ] Gueye O4.5 pts
+	- [ ] Risacher O12.5 pts
+- ## Twolves @ Thunder
+	- [ ] Edwards O26.5 pts (5pts) 1 3
+	- [ ] Alexander-Walker O9.5pts
+	- [ ] K George U20.5pts (2pts)
+
+# Parlay 12 +133684168 ($0.50 - $668,421.34)
+- [ ] Austin Peay +7.5 (29-43 half)
+	- [ ] U145.5 (72pts)
+- [ ] UNC ML (39-35 1st)
+	- [ ] Trimble U9.5 pts (5pts)
+- [ ] Eastern Kentucky +2.5 (28-32 half)
+	- [ ] U147.5 (64pts)
+- [ ] Michigan ML
+	- [ ] Williams 15+ pts
+- [ ] Kansas -6.5pts
+	- [ ] O143.5
+- [ ] Houston ML
+	- [ ] Houston Team Total O66.5
+	- [ ] Roberts O5.5 reb
+- [ ] William & Mary +2.5 (65-66 4:39 2nd)
+- [ ] Monmouth +1.5 (39-33 half)
+- [ ] Alabama St ML (33-31 half)
+- [ ] UTRioGdValley +14.5 (34-43 half)
+- [ ] MSVU O139.5 (59pts 1st half)
+- [ ] Bellarmine ML (32-31 half)
+- [ ] N Florida U159.5 (84pts half)
+- [ ] Queens NC -8.5 (35-27 half)
+- [ ] Nicholls -3.5 (10-21 1st)
+- [ ] Delaware St ML
+- [ ] Incarnate Word +1.5 (23 - 11 1st)
