@@ -1,0 +1,4 @@
+- ## Testing your Python Apps Learning Path
+	- https://realpython.com/learning-paths/test-your-python-apps/
+- ## Classic Data Structures and Algorithms
+	- https://realpython.com/learning-paths/classic-data-structures-and-algorithms-with-python/
