@@ -1,0 +1,21 @@
+- ## Analyze competitive websites
+	- Analyze the following website and give me an overview of its content: URL
+	- Analyze the following website from a design point of view. Tell me what the website doe3s well and what it does more poorly. URL
+	- Analyze the website at URL for usability and create a 200-word report explaining it to me.
+- ## Analyze a web page for keywords
+	- Please analyze this web page and tell me the keywords: URL
+	- Analyze the following text and tell me the 10 top keywords
+- ## Identify your website needs
+	- Propose a sitemap for a static website that has a focus on ...
+- ## Create web pages
+	- Create a 500-word web page that explains the purpose of ... Encode the web page in HTML.
+- ## Review and improve a web page's content
+	- Review the following web page content for grammatical errors and clarity of language. Suggest keyword optimizations I might make.
+	- Suggest ways of improving this home page for a blog site
+	- Please implement a favicon link, an appealing CSS header, a navigation menu, some semantic HTML elements, a visually distinct footer, and a better means of linking the CSS file. Also, add meta tags.
+- ## Create an external CSS File
+	- Write me an external CSS file derived from this web page.
+- ## Write scripts for web pages
+	- Write a Python script that generates a summary page with the title and first few lines of each file in /blog-posts/. html, linking them to much like how WordPress summarizes posts in reverse chronological order.
+	- Could you modify the script to use LXML instead?
+	- Please write a similar implementation using Rust.

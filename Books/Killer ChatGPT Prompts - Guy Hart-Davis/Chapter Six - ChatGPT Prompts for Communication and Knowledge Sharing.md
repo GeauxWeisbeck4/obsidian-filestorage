@@ -1,0 +1,13 @@
+- ## Brainstorm Ideas and SOlutions
+	- 1. Establish the topic to which you're brainstorming
+		- I want you to brainstorm with me. The topic is: ...?
+	- 2. Ask ChatGPT for further ideas if necessary
+		- That list is a good start. Can you give me 10 more ideas?
+	- 3. Work with ChatGPT's suggestions
+		- Please give me three or four examples of ...
+		- Okay explain ...
+	- 4. Make ChatGPT generate questions
+		- Tell me five questions we should consider before...
+		- What are disadvantages of ...
+	- 5. Have ChatGPT summarize ideas from the brainstorming session
+		- Please summarize the ideas we just brainstormed. 500 words max.

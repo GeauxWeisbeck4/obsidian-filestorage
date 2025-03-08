@@ -1,0 +1,17 @@
+- ## How can ChatGPT help you with programming
+	- ## Conceptualize the program or the code goal.
+		- What programming language would I use to analyze large quantities of data?
+		- Write a plan for creating a Python script to prompt the user to enter information that the script then stores in an Excel worksheet.
+		- Using the Go language, I want to create a function that adds two floating-point numbers and converts the result to an integer. Can you tell me how to get started?
+	- ## Write the code.
+		- Implement a bubble sort algorithm in Rust that prints out every operation it performs so I can understand how the result is acheived.
+		- How can I use the Python ruamel.yaml library to get two dictionaries: one for key-value pairs of tag and text, and one for key-value pairs of tag and comment for tag lines that include comments.
+	- ## Debug the code.
+		- Give me four test cases for testing the code you just fixed.
+	- ## Refactor the code.
+		- Please refactor this code to make it easy to read and easy to maintain.
+		- I want to make this code more maintainable. Can you find an existing library that extracts data as I'm doing here?
+	- ## Optimize the code
+		- Identify and likely performance issues in the C# code below and tell me how to fix them.
+		- I'd like you to help me identify the most computationally-expensive operations in this code and thell me how to make it run faster.
+		- 
